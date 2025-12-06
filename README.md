@@ -43,4 +43,5 @@ The project is configured for the Keil uVision development environment.
     * Go to `Project` > `Open Project` and select the project file **`sample.uvprojx`** (or equivalent) inside the main folder.
 3.  **Compile and Load:**
     * Compile the source code.
-    * Load the binary file (`.bin` or `.hex`) onto the LandTiger board using your JTAG/SWD programmer or debugger.
+    * Load on board
+    * ENJOY 👻👾🕹️
